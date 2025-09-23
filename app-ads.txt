@@ -1,0 +1,3 @@
+# app-ads.txt for Text to Calendar
+# AdMob Publisher ID: ca-app-pub-6061062978028644
+google.com, pub-6061062978028644, DIRECT, f08c47fec0942fa0
